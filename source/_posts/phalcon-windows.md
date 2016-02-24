@@ -8,6 +8,8 @@ tags: [Phalcon]
 
 注：示例机器上php安装目录为D:\Program Files\wamp\bin\php\php5.5.12
 
+<!--more--> 
+
 # 安装
 windows下需下载phalcon扩展文件php_phalcon.dll，下载地址为[这里](https://phalconphp.com/en/download/windows)，选择对应的PHP版本文件
 
