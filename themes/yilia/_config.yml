@@ -1,0 +1,59 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  # 随笔: /tags/随笔
+
+# SubNav
+subnav:
+  github: "https://github.com/lincolnzhou"
+  weibo: "http://weibo.com/3257692320/profile?is_hot=1"
+  rss: "#"
+  #zhihu: "#"
+  #douban: "#"
+  #mail: "#"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+baidu_tongji: true
+favicon: /favicon.png
+
+#你的头像url
+avatar: https://dn-coding-net-production-static.qbox.me/931951a8-d8f8-4eb6-8a2e-8bdb4a8f91f9.png?imageMogr2/auto-orient/format/png/crop/!600x600a0a8
+#是否开启分享
+share: true
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: lincolnzhou
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+friends: false
+#开启——
+#friends:
+#  奥巴马的博客: http://localhost:4000/
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 武汉科技大学11级,就职于斗鱼TV-武汉研发一部-PHP组，从事于后端架构设计及开发PHP
