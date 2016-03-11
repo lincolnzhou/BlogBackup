@@ -4,15 +4,15 @@
 
 # Site
 title: SmallDuck
-subtitle:
-description:
+subtitle: 我是一个努力干活儿还不粘人的小鸭子
+description: 武汉科技大学11级，就职于斗鱼TV-武汉研发一部-PHP组，从事于后端架构设计及开发PHPer
 author: Lincoln Zhou
 language: Chinese
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://lincolnzhou.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
