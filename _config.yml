@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/lincolnzhou/lincolnzhou.github.io.git
   branch: master
-  message: 撰写文章
+  message: nginx配置学习
