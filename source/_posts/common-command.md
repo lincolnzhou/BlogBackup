@@ -30,6 +30,10 @@ git checkout [path_file]
 ```
 # 查看当前终端机下的所有程序，grep指查找[search string]
 ps -aux | grep "[search string]"
+
+# 查看最后100行文件内容，100可以自行修改
+# 有些文件比较大，所以使用该指令比较方便
+tail -n 100 file
 ```
 
 **该文章会持续更新，方便自己也方便他人学习！！！**
