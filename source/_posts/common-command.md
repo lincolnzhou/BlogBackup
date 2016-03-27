@@ -36,4 +36,11 @@ ps -aux | grep "[search string]"
 tail -n 100 file
 ```
 
+# Mysql
+```
+# 时间搓函数
+# 返回当天的时间戳
+to_days(now())
+```
+
 **该文章会持续更新，方便自己也方便他人学习！！！**
