@@ -17,6 +17,8 @@ mysqldump主要是对数据库表和数据进行备份
 mysqldump -hip -uroot -ppassword dbname > dbname_dump_20160414_201900.sql
 ```
 
+<!--more--> 
+
 # 定时备份-crontab
 ```bash
 # root用户创建执行脚本
