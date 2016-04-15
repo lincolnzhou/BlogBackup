@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/lincolnzhou/lincolnzhou.github.io.git
   branch: master
-  message: 《PHP几种字符串拼接方式比较》
+  message: 《Linux下mysql数据库备份及crontab定时备份》
