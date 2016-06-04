@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/lincolnzhou/lincolnzhou.github.io.git
   branch: master
-  message: 《Linux下mysql数据库备份及crontab定时备份》
+  message: 《【mysql系列 - 数据类型】 整数类型》
