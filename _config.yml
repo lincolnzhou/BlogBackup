@@ -69,6 +69,6 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lincolnzhou/lincolnzhou.github.io.git
+  repo: git@github.com:lincolnzhou/lincolnzhou.github.io.git
   branch: master
   message: 《【mysql系列 - 数据类型】 整数类型》

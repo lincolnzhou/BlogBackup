@@ -37,7 +37,7 @@ favicon: /favicon.png
 
 #你的头像url
 #avatar: https://dn-coding-net-production-static.qbox.me/931951a8-d8f8-4eb6-8a2e-8bdb4a8f91f9.png?imageMogr2/auto-orient/format/png/crop/!600x600a0a8
-avatar: /assets/smallduck.jpeg
+avatar: https://blog-1256296502.cos.ap-guangzhou.myqcloud.com/smallduck.jpeg
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
